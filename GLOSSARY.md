@@ -40,6 +40,9 @@ A type of smart oil filled with magnetic particles. When we bring a magnet close
 ### **Open Field Lithography**
 The process of "drawing" electronic circuits using light or lasers. Since we do this in space, we call it "open field" because we don't need cleanroom walls (the vacuum of space is already sterile).
 
+### **Fractal**
+A geometric pattern that repeats at different scales. We use a fractal shape (instead of a simple square) for the sails to scatter radar waves effectively, making the swarm "invisible" to asteroid defense radars (Stealth), ensuring we don't blind Earth's defenses.
+
 ---
 
 ## 🌌 Physics & Space
@@ -75,9 +78,12 @@ The rate at which temperature drops as you go up in the atmosphere (it gets cold
 ### **ITCZ (Intertropical Convergence Zone)**
 A "belt" of rain around the Earth's Equator. It is responsible for rains in the Amazon and monsoons in Asia. The project protects this area (does not cast shadow on it) to avoid droughts.
 
+### **Gaussian Gradient (Feathering)**
+A technique to soften the edges of the shadow. Instead of a sharp line between sun and shade (which would cause atmospheric turbulence and strong winds), the shield's opacity fades in gradually over hundreds of kilometers, like a soft-focus lens.
+
 ---
 
-## 🔐 Security & Cryptography
+## 🔐 Security & Control
 
 ### **Termination Shock**
 The risk of sudden global warming if geoengineering is turned off all at once. To avoid this, Helios-Aegis has a decay system: if it loses contact with Earth, it opens the shield slowly over years, never all at once.
@@ -90,6 +96,9 @@ A physical limitation etched into the satellite's lenses. They are made to be "m
 
 ### **Dithering**
 A technique of moving shadows smoothly and randomly all the time. It prevents any area from staying in the shade for too long, avoiding sudden temperature changes that would cause strong winds.
+
+### **Geofencing**
+A virtual geographic boundary defined by GPS coordinates. The swarm uses this to automatically recognize when it is casting a shadow over major solar farms (like in the Atacama or Sahara) and reduces its opacity locally to avoid harming renewable energy production.
 
 ### **Shamir's Secret Sharing**
 An advanced cryptographic algorithm. Imagine a treasure map torn into 5 pieces, where you need at least 3 to read the map. We use this to generate the "Lazarus Protocol" password, ensuring that no single country or dictator can control (or turn off) the shield alone.
