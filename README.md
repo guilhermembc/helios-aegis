@@ -1,82 +1,85 @@
 # 🛡️ Helios-Aegis Project
-> **Framework de Geoengenharia Solar Seletiva, Resiliente & Observatório Espacial**
+> **Selective Solar Geoengineering Framework, Resilient Architecture & Space Observatory**
+> 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d551e10e-ef9b-467a-8095-ffc207e64284"/>
 
-![Helios Aegis Cover](<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d551e10e-ef9b-467a-8095-ffc207e64284" />
-)
+[![Language](https://img.shields.io/badge/Lang-Portuguese-green)](README.pt-br.md)
+[![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Engineering%20Readiness-blue)](WHITEPAPER.md)
 
-| Metadados | Status |
+| Metadata | Status |
 | :--- | :--- |
-| **Versão:** 4.0 (Stable) | 🟢 Engineering Readiness |
-| **Licença:** CC BY-SA 4.0 | 🛡️ Fail-Safe / Human-in-the-Loop |
-| **Foco:** Clima & Astronomia | 🌍 Open Source Initiative |
+| **Version:** 4.0 (Stable) | 🟢 Engineering Readiness |
+| **Safety Class:** | 🛡️ Fail-Safe / Human-in-the-Loop |
+| **Focus:** Climate & Astronomy | 🌍 Open Source Initiative |
 
 ---
 
-## 📄 [Clique aqui para ler o White Paper V4.0 Completo](WHITEPAPER.md)
-*O documento técnico completo contendo a física, engenharia de materiais e protocolos de segurança detalhados.*
+## 📄 [Click here to read the Full White Paper V4.0](WHITEPAPER.md)
+*The complete technical document containing physics, materials engineering, and detailed safety protocols.*
 
 ---
 
-## 🔭 O Que é o Helios-Aegis?
-O **Helios-Aegis** é uma proposta de infraestrutura espacial civil localizada no Ponto de Lagrange L1 (Sol-Terra). Diferente de propostas antigas de bloqueio solar total, este projeto utiliza um enxame distribuído de nanossatélites para atuar como um **Espelho de Calor Seletivo**.
+## 🔭 What is Helios-Aegis?
+**Helios-Aegis** is a proposal for civil space infrastructure located at the Lagrange Point L1 (Sun-Earth). Unlike older "total blocking" sunshade proposals, this project utilizes a distributed swarm of nanoseatellites acting as a **Selective Heat Mirror**.
 
-### 💡 Principais Inovações da V4.0
-* **Seletividade Espectral:** Bloqueia o calor (Infravermelho) mas deixa passar a luz visível (PAR), permitindo que a agricultura e a fotossíntese continuem na Terra.
-* **Materiais de Nitreto de Titânio (TiN):** Uso de cerâmica dourada inerte para durabilidade secular, imune à oxidação no espaço.
-* **Sem Lixo Espacial:** Estruturas de polímero metaestável que sublimam (viram gás) em caso de falha ou colisão.
-* **Dupla Finalidade:** Após a estabilização do clima, o enxame se realinha para formar o **Observatório Argus**, um telescópio gigante para caçar exoplanetas.
+### 💡 V4.0 Key Innovations
+* **Spectral Selectivity:** Blocks heat (Near-Infrared) but transmits visible light (PAR), allowing agriculture and photosynthesis to continue on Earth.
+* **Titanium Nitride (TiN) Materials:** Uses inert gold-colored ceramics for century-long durability, immune to space oxidation.
+* **Zero Space Debris:** Metastable polymer structures that sublimate (turn into gas) upon failure or collision.
+* **Dual Purpose:** After climate stabilization, the swarm realigns to form the **Argus Observatory**, a giant diffraction telescope for hunting exoplanets.
 
 ---
 
-## ⚙️ Arquitetura do Sistema
+## ⚙️ System Architecture
 
-### O Enxame (The Swarm)
-O sistema não é uma peça única, mas trilhões de unidades autônomas de 100m² operando em formação.
+### The Swarm
+The system is not a monolith, but trillions of autonomous 100m² units operating in formation.
 
-| Componente | Tecnologia | Função |
+| Component | Technology | Function |
 | :--- | :--- | :--- |
-| **Vela Solar** | TiN sobre Poliimida | Propulsão por luz e reflexão de calor |
-| **Atuadores** | Polímeros Eletroativos (EAP) | Manobras rápidas sem peças mecânicas |
-| **Controle** | Rede Oracle (Satélites Próprios) | Dados climáticos independentes de governos |
+| **Solar Sail** | TiN on Polyimide | Light pressure propulsion & heat reflection |
+| **Actuators** | Electroactive Polymers (EAP) | Rapid maneuvering without moving parts |
+| **Control** | Oracle Network (Private Satellites) | Climate data independent of governments |
 
-### 🛡️ Segurança e Governança
-Este projeto segue princípios rígidos de **Hard-Security**:
-1.  **Protocolo Lázaro:** O sistema exige uma confirmação humana criptografada a cada 30 dias. Se a Terra silenciar, o escudo se desativa automaticamente.
-2.  **Miopia Óptica:** As lentes são fisicamente gravadas para focar apenas no infinito (Júpiter+), tornando impossível usar o sistema como arma contra a Terra.
-3.  **Preservação Equatorial:** O algoritmo proíbe sombras sobre a linha do Equador para proteger o ciclo de chuvas tropicais.
-
----
-
-## 🗺️ Roadmap de Desenvolvimento
-
-- [ ] **Fase I: Pesquisa (Anos 1-2)**
-    - Validação de deposição de Nitreto de Titânio.
-    - Testes de sublimação de polímeros em vácuo.
-- [ ] **Fase II: Pathfinder (Anos 3-5)**
-    - Lançamento do satélite de teste "Icarus" (CubeSat).
-    - Teste real dos atuadores EAP em órbita baixa.
-- [ ] **Fase III: Infraestrutura (Anos 5-8)**
-    - Lançamento da Rede Oracle de sensores.
-- [ ] **Fase IV: Deploy (Anos 10+)**
-    - Início da manufatura orbital em massa.
+### 🛡️ Safety & Governance
+This project adheres to strict **Hard-Security** principles:
+1.  **Lazarus Protocol:** The system requires an encrypted human confirmation every 30 days. If Earth goes silent, the shield automatically deactivates.
+2.  **Optical Myopia:** Lenses are physically etched to focus only on infinity (Jupiter+), making it physically impossible to focus light on Earth as a weapon.
+3.  **Equatorial Sparing:** The algorithm forbids shadowing the Equator to protect the tropical rain cycle.
 
 ---
 
-## 🤝 Como Contribuir
-Este é um projeto **Open Source**. Buscamos colaboradores nas áreas de:
-* Dinâmica Orbital (Simulação de N-Corpos)
-* Ciência de Materiais (Degradação UV)
-* Criptografia (Protocolos de Consenso Distribuído)
+## 🗺️ Development Roadmap
 
-Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
+- [ ] **Phase I: Research (Years 1-2)**
+    - Validation of Titanium Nitride deposition.
+    - Vacuum polymer sublimation tests.
+- [ ] **Phase II: Pathfinder (Years 3-5)**
+    - Launch of "Icarus" test satellite (CubeSat).
+    - In-orbit EAP actuator testing.
+- [ ] **Phase III: Infrastructure (Years 5-8)**
+    - Deployment of the Oracle Sensor Network.
+- [ ] **Phase IV: Deployment (Years 10+)**
+    - Start of mass orbital manufacturing.
+
+---
+
+## 🤝 How to Contribute
+This is an **Open Source** project. We are looking for contributors in:
+* Orbital Dynamics (N-Body Simulation)
+* Materials Science (UV Degradation)
+* Cryptography (Distributed Consensus Protocols)
+
+Feel free to open an **Issue** or submit a **Pull Request**.
 
 ---
 
-## 🏆 Créditos e Metodologia
+## 🏆 Credits & Methodology
 
-Este projeto foi idealizado e coordenado por **Guilherme M. B. C.** e desenvolvido através de um processo intensivo de co-criação com Inteligência Artificial (**Gemini - Google**).
+This project was conceptualized and coordinated by **Guilherme M. B. C.** and developed through an intensive co-creation process with Artificial Intelligence (**Gemini - Google**).
 
-A fundamentação técnica foi refinada utilizando a metodologia experimental **GEM (Gerador de Especialistas Multidisciplinares)**, onde a IA simulou um painel adversarial de astrofísicos, engenheiros de materiais e juristas internacionais para submeter o projeto a testes de estresse teóricos, evoluindo o conceito da Versão 1.0 para a atual Versão 4.0 (Engineering Readiness).
+The technical foundation was refined using the **GEM (Generator of Expert Multidisciplinary-teams)** experimental methodology, where the AI simulated an adversarial panel of astrophysicists, material engineers, and international lawyers to subject the project to theoretical stress tests, evolving the concept from Version 1.0 to the current Version 4.0 (Engineering Readiness).
 
 ---
-*Licenciado sob [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).*
+*Licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).*
