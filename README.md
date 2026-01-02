@@ -21,7 +21,7 @@
 ---
 
 ## 🔭 What is Helios-Aegis?
-**Helios-Aegis** is a proposal for civil space infrastructure located at the Lagrange Point L1 (Sun-Earth). Unlike older "total blocking" sunshade proposals, this project utilizes a distributed swarm of nanoseatellites acting as a **Selective Heat Mirror**.
+**Helios-Aegis** is a proposal for civil space infrastructure located at the Lagrange Point L1 (Sun-Earth). Unlike older "total blocking" sunshade proposals, this project utilizes a distributed swarm of nanosatellites acting as a **Selective Heat Mirror**.
 
 ### 💡 V4.0 Key Innovations
 * **Spectral Selectivity:** Blocks heat (Near-Infrared) but transmits visible light (PAR), allowing agriculture and photosynthesis to continue on Earth.
