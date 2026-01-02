@@ -13,7 +13,7 @@ The main project name. *Helios* is the Greek god of the Sun; *Aegis* is the myth
 The second phase of the project (legacy). In mythology, Argus Panoptes was a hundred-eyed giant who saw everything. It refers to the transformation of the swarm into a giant telescope to observe the universe after the climate crisis.
 
 ### **Lazarus Protocol**
-The final security system (Fail-Safe). Just as Lazarus "came back from the dead," this protocol requires a constant "sign of life" from humanity. If Earth stops sending the signal (due to war, collapse, or political decision), the shield assumes something is wrong and automatically deactivates.
+The final security system (Fail-Safe). Just as Lazarus "came back from the dead," this protocol requires a constant "sign of life" from humanity. If Earth stops sending the signal (due to war or collapse), the shield assumes something is wrong and initiates a **gradual and slow shutdown** (over years) to avoid sudden temperature shocks.
 
 ### **Oracle Network**
 A set of independent satellites launched by the project solely to measure temperature and CO2. It serves to ensure that climate data is not manipulated by governments ("Oracles" speak the impartial truth).
