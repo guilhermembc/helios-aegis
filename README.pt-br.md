@@ -41,7 +41,7 @@ O sistema não é um monólito, mas trilhões de unidades autônomas de 100m² o
 
 ### 🛡️ Segurança e Governança
 Este projeto segue princípios rígidos de **Hard-Security**:
-1.  **Protocolo Lázaro:** O sistema exige uma confirmação humana criptografada a cada 30 dias. Se a Terra silenciar, o escudo se desativa automaticamente.
+1.  **Protocolo Lázaro:** O sistema exige uma confirmação humana criptografada a cada 30 dias. Se a Terra silenciar, o escudo se desativa automaticamente (progressivamente).
 2.  **Miopia Óptica:** As lentes são fisicamente gravadas para focar apenas no infinito (Júpiter+), tornando impossível usar o sistema como arma contra a Terra.
 3.  **Preservação Equatorial:** O algoritmo proíbe sombras sobre a linha do Equador para proteger o ciclo de chuvas tropicais.
 
