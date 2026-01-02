@@ -47,6 +47,16 @@ Este projeto segue princípios rígidos de **Hard-Security**:
 
 ---
 
+### 📚 Glossário Técnico
+**Confuso com os termos como *Lapse-Rate*, *TiN*, *Ponto de Lagrange* ou *Protocolo Lázaro*?**
+
+> 🔍 Preparamos um dicionário detalhado para você:
+>
+> * **[🇺🇸 Access the English Glossary](GLOSSARY.md)**
+> * **[🇧🇷 Acessar o Glossário em Português](GLOSSARY.pt-br.md)**
+
+---
+
 ## 🤝 Como Contribuir
 Este é um projeto **Open Source**. Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
 
