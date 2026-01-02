@@ -71,7 +71,6 @@ This project adheres to strict **Hard-Security** principles:
 > 🔍 We have prepared a detailed dictionary for you:
 >
 > * **[🇺🇸 Access the English Glossary](GLOSSARY.md)**
-> * **[🇧🇷 Acessar o Glossário em Português](GLOSSARY.pt-br.md)**
 
 ---
 
