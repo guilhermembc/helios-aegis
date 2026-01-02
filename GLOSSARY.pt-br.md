@@ -13,7 +13,7 @@ O nome principal do projeto. *Helios* é o deus grego do Sol; *Aegis* (ou Égide
 A segunda fase do projeto (legado). Na mitologia, Argus Panoptes era um gigante de cem olhos que tudo via. Refere-se à transformação do enxame em um telescópio gigante para observar o universo após a crise climática.
 
 ### **Protocolo Lázaro**
-O sistema de segurança final (Fail-Safe). Assim como Lázaro "voltou dos mortos", este protocolo exige um sinal de vida constante da humanidade. Se a Terra parar de enviar o sinal (por guerra, colapso ou decisão política), o escudo assume que algo está errado e se desativa automaticamente.
+O sistema de segurança final (Fail-Safe). Assim como Lázaro "voltou dos mortos", este protocolo exige um sinal de vida constante da humanidade. Se a Terra parar de enviar o sinal (por guerra ou colapso), o escudo assume que algo está errado e inicia um **desligamento gradual e lento** (ao longo de anos), evitando mudanças bruscas de temperatura.
 
 ### **Rede Oracle**
 Um conjunto de satélites independentes lançados pelo projeto apenas para medir a temperatura e o CO2. Serve para garantir que os dados climáticos não sejam manipulados por governos ("Oráculos" dizem a verdade imparcial).
