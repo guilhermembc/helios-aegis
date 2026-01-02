@@ -65,6 +65,16 @@ This project adheres to strict **Hard-Security** principles:
 
 ---
 
+### 📚 Technical Glossary / Glossário Técnico
+**Confused by terms like *Lapse-Rate*, *TiN*, *Lagrange Point* or *Lazarus Protocol*?**
+
+> 🔍 We have prepared a detailed dictionary for you:
+>
+> * **[🇺🇸 Access the English Glossary](GLOSSARY.md)**
+> * **[🇧🇷 Acessar o Glossário em Português](GLOSSARY.pt-br.md)**
+
+---
+
 ## 🤝 How to Contribute
 This is an **Open Source** project. We are looking for contributors in:
 * Orbital Dynamics (N-Body Simulation)
