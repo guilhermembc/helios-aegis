@@ -44,7 +44,7 @@ The system is not a monolith, but trillions of autonomous 100m² units operating
 
 ### 🛡️ Safety & Governance
 This project adheres to strict **Hard-Security** principles:
-1.  **Lazarus Protocol:** The system requires an encrypted human confirmation every 30 days. If Earth goes silent, the shield automatically deactivates.
+1.  **Lazarus Protocol:** The system requires an encrypted human confirmation every 30 days. If Earth goes silent, the shield automatically deactivates (progressively).
 2.  **Optical Myopia:** Lenses are physically etched to focus only on infinity (Jupiter+), making it physically impossible to focus light on Earth as a weapon.
 3.  **Equatorial Sparing:** The algorithm forbids shadowing the Equator to protect the tropical rain cycle.
 
