@@ -65,7 +65,7 @@ This project adheres to strict **Hard-Security** principles:
 
 ---
 
-### 📚 Technical Glossary / Glossário Técnico
+### 📚 Technical Glossary
 **Confused by terms like *Lapse-Rate*, *TiN*, *Lagrange Point* or *Lazarus Protocol*?**
 
 > 🔍 We have prepared a detailed dictionary for you:
