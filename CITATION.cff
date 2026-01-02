@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this framework or concept, please cite it as below."
+authors:
+- family-names: "M. B. C."
+  given-names: "Guilherme"
+  orcid: "https://github.com/guilhermembc"
+- name: "Gemini AI (Google)"
+  desc: "Co-Author & Theoretical Simulation"
+title: "Helios-Aegis Project: Selective Solar Geoengineering Framework"
+version: 4.0.0
+doi: 10.5281/zenodo.123456
+date-released: 2024-05-22
+url: "https://github.com/guilhermembc/helios-aegis"
+license: CC-BY-SA-4.0
+keywords:
+  - geoengineering
+  - space-infrastructure
+  - climate-change
+  - lagrange-point
+  - solar-radiation-management
