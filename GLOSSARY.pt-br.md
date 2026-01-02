@@ -40,6 +40,9 @@ Um tipo de óleo inteligente cheio de partículas magnéticas. Quando aproximamo
 ### **Litografia de Campo Aberto**
 O processo de "desenhar" circuitos eletrônicos usando luz ou lasers. Como fazemos isso no espaço, chamamos de "campo aberto" porque não precisamos de paredes de salas limpas (o vácuo do espaço já é estéril).
 
+### **Fractal**
+Um padrão geométrico que se repete em diferentes escalas. Usamos uma forma fractal (em vez de um quadrado simples) para as velas dispersarem ondas de radar de forma eficaz, tornando o enxame "invisível" aos radares de defesa planetária (Stealth), garantindo que não cegamos as defesas da Terra.
+
 ---
 
 ## 🌌 Física & Espaço
@@ -75,9 +78,12 @@ A parte da luz que as plantas usam para crescer (Luz Visível). O projeto deixa 
 ### **ZCIT (Zona de Convergência Intertropical)**
 Uma "cintura" de chuvas ao redor do Equador da Terra. É responsável pelas chuvas na Amazônia e monções na Ásia. O projeto protege essa área (não faz sombra nela) para evitar secas.
 
+### **Gradiente Gaussiano (Feathering)**
+Uma técnica para suavizar as bordas da sombra. Em vez de uma linha nítida entre sol e sombra (que causaria turbulência atmosférica e ventos fortes), a opacidade do escudo diminui gradualmente ao longo de centenas de quilômetros, como uma lente de foco suave.
+
 ---
 
-## 🔐 Segurança & Criptografia
+## 🔐 Segurança & Controle
 
 ### **Termination Shock (Choque de Término)**
 É o risco de um aquecimento global repentino se a geoengenharia for desligada de uma vez. Para evitar isso, o Helios-Aegis possui um sistema de decaimento: se perder contato com a Terra, ele abre o escudo lentamente ao longo de anos, nunca de uma vez.
@@ -90,6 +96,9 @@ Uma limitação física gravada nas lentes do satélite. Elas são feitas para s
 
 ### **Dithering (Pontilhamento Temporal)**
 Técnica de mover as sombras suavemente e aleatoriamente o tempo todo. Impede que uma área fique na sombra por muito tempo, evitando mudanças bruscas de temperatura que causariam ventos fortes.
+
+### **Geofencing (Cerca Virtual)**
+Uma fronteira geográfica virtual definida por coordenadas GPS. O enxame usa isso para reconhecer automaticamente quando está projetando sombra sobre grandes usinas solares (como no Atacama ou Saara) e reduz sua opacidade localmente para não prejudicar a produção de energia renovável.
 
 ### **Shamir's Secret Sharing**
 Um algoritmo criptográfico avançado. Imagine um mapa do tesouro rasgado em 5 pedaços, onde você precisa de pelo menos 3 para ler o mapa. Usamos isso para gerar a senha do "Protocolo Lázaro", garantindo que nenhum país ou ditador consiga controlar (ou desligar) o escudo sozinho.
